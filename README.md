@@ -92,7 +92,7 @@
 <body>
 
 <header>
-  <h1>Damytsi</h1>
+  <h1>Damaris</h1>
   <p>Estudante de TSI | Desenvolvedor Web & Mobile | Projeto premiado na FICE 2024</p>
   <nav>
     <a href="#sobre">Sobre</a>
