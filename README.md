@@ -1,98 +1,6 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Damytsi - Portfólio</title>
-  <style>
-    /* Reset básico */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    }
-    body {
-      background: #f4f7f8;
-      color: #333;
-      line-height: 1.6;
-      padding: 20px;
-    }
-    header {
-      text-align: center;
-      padding-bottom: 20px;
-    }
-    header h1 {
-      font-size: 2.5rem;
-      color: #007acc;
-    }
-    header p {
-      font-size: 1.1rem;
-      color: #555;
-      margin-top: 8px;
-    }
-    nav {
-      margin-top: 20px;
-      text-align: center;
-    }
-    nav a {
-      text-decoration: none;
-      margin: 0 15px;
-      color: #007acc;
-      font-weight: 600;
-      transition: color 0.3s ease;
-    }
-    nav a:hover {
-      color: #004a80;
-    }
-    section {
-      max-width: 900px;
-      margin: 30px auto;
-      background: #fff;
-      border-radius: 8px;
-      padding: 25px;
-      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    }
-    h2 {
-      color: #007acc;
-      margin-bottom: 15px;
-    }
-    ul.projects {
-      list-style: none;
-    }
-    ul.projects li {
-      margin-bottom: 15px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #eee;
-    }
-    ul.projects li a {
-      color: #333;
-      font-weight: 700;
-      text-decoration: none;
-    }
-    ul.projects li a:hover {
-      color: #007acc;
-      text-decoration: underline;
-    }
-    footer {
-      text-align: center;
-      margin-top: 40px;
-      color: #777;
-      font-size: 0.9rem;
-    }
-    /* Responsividade */
-    @media(max-width: 600px) {
-      nav a {
-        display: block;
-        margin: 10px 0;
-      }
-    }
-  </style>
-</head>
-<body>
 
 <header>
-  <h1>Damytsi</h1>
+  <h1>Damaris Elisangela Moreira</h1>
   <p>Estudante de TSI | Desenvolvedor Web & Mobile | Projeto premiado na FICE 2024</p>
   <nav>
     <a href="#sobre">Sobre</a>
@@ -103,8 +11,27 @@
 
 <section id="sobre">
   <h2>Sobre Mim</h2>
-  <p>Olá! Sou estudante do 5º período de Tecnologia em Sistemas para Internet no Instituto Federal Catarinense - Campus Camboriú. Tenho experiência em linguagens como Java, PHP, Python, JavaScript, HTML, C++, além de trabalhar com frameworks como React e Django. Também atuo com bancos de dados PostgreSQL e MongoDB.</p>
-  <p>Meu projeto premiado na Feira de Iniciação Científica e Extensão (FICE) de 2024 envolveu a análise bibliométrica dos artigos científicos da feira, com desenvolvimento de banco de dados e análises estatísticas.</p>
+  <p>🎓Olá! Sou estudante do 5º período de Tecnologia em Sistemas para Internet no Instituto Federal Catarinense - Me chamo Damaris Elisangela Moreira e atualmente estou na fase final do curso, com o TCC em andamento.
+Durante a graduação, atuei como representante das turmas de TSI no colegiado, fui bolsista de pesquisa (2023) e bolsista de extensão (2024). Meu projeto de pesquisa em banco de dados foi premiado na FICE, e participei de diversos programas de extensão, ampliando minha experiência acadêmica e prática.
+
+💡 Competências e Habilidades
+
+Desenvolvimento Full Stack
+
+🔹Java, PHP, JavaScript, HTML e C++;
+
+🔹React (front-end) e Django (back-end);
+
+🔹PostgreSQL e MongoDB;
+
+🔹APIs REST e JSON.
+
+🔹Pesquisa Científica e Extensão
+
+🔹Trabalho em equipe e liderança acadêmica
+
+Também possuo conhecimentos em segurança da informação, engenharia de software, designer grafico, programação web redes e administração de servidores..</p>
+  <p></p>
 </section>
 
 <section id="projetos">
@@ -112,15 +39,43 @@
   <ul class="projects">
     <li>
       <a href="https://github.com/damytsi/fice-estudo-bibliometrico" target="_blank" rel="noopener noreferrer">
-        FICE – Estudo Bibliométrico
+        📚FICE – Estudo Bibliométrico
       </a>  
-      <p>Análise bibliográfica premiada na FICE 2024. Construção de banco de dados e estatísticas científicas.</p>
+      <p>Análise Bibliográfica da FICE IFC Camboriú
+
+  📌Descrição do Projeto
+
+Este projeto faz parte da Feira de Iniciação Científica e Extensão (FICE) do IFC Camboriú, que celebra 15 anos em 2024. O objetivo foi analisar a produção bibliográfica do evento, utilizando os metadados de artigos publicados em 11 edições (2012 a 2023), construindo um banco de dados completo para permitir análises futuras e acompanhamento da evolução da FICE.
+
+O projeto contribui para:
+
+🔹Organizar informações de autores, artigos, áreas e categorias;
+
+🔹Criar indicadores bibliométricos sobre produção científica;
+
+🔹Permitir análises de coautoria, temas e evolução do evento;
+
+🔹Servir como base para futuras pesquisas e expansão do banco de dados.
+
+🛠Tecnologias Utilizadas
+
+🔹Banco de Dados: PostgreSQL
+
+🔹ETL e Integração de Dados: Pentaho Data Integration (PDI)
+
+🔹Planilhas: Google Sheets (para tabulação inicial)
+
+🔹Documentação: PDF e imagens de relatórios.</p>
     </li>
     <li>
       <a href="#" target="_blank" rel="noopener noreferrer">
-        App TCC (Em desenvolvimento)
+        📚App TCC (Em desenvolvimento)
       </a>
-      <p>Aplicativo mobile focado em soluções práticas, utilizando React Native e integração com banco PostgreSQL.</p>
+      <p>Aplicativo de Agricultura Compartilhada 🌱📱
+
+📌 Descrição do Projeto
+
+Este projeto é o Trabalho de Conclusão de Curso. O aplicativo tem como objetivo conectar produtores rurais e consumidores, promovendo o compartilhamento de produtos, recursos e informações agrícolas, otimizando a produção, reduzindo desperdícios e fortalecendo a colaboração na comunidade agrícola..</p>
     </li>
     <!-- Adicione mais projetos aqui -->
   </ul>
@@ -128,9 +83,9 @@
 
 <section id="contato">
   <h2>Contato</h2>
-  <p>📧 Email: <a href="mailto:seuemail@ifc.edu.br">seuemail@ifc.edu.br</a></p>
-  <p>🔗 LinkedIn: <a href="https://www.linkedin.com/in/seu-perfil-aqui" target="_blank" rel="noopener noreferrer">linkedin.com/in/seu-perfil-aqui</a></p>
-  <p>🐙 GitHub: <a href="https://github.com/damytsi" target="_blank" rel="noopener noreferrer">github.com/damytsi</a></p>
+  <p>📧 Email: <a href="mailto:damytsi23@gmail.com">damytsi23@gmail.com</a></p>
+  <p>🔗 LinkedIn: <a href="www.linkedin.com/in/damymoreira" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/damymoreira</a></p>
+  <p>🐙 GitHub: <a href="https://github.com/xdammyx" target="_blank" rel="noopener noreferrer">https://github.com/xdammyx</a></p>
 </section>
 
 <footer>
