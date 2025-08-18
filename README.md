@@ -89,7 +89,7 @@ Este projeto é o Trabalho de Conclusão de Curso. O aplicativo tem como objetiv
 </section>
 
 <footer>
-  &copy; 2025 Damytsi | Desenvolvedor em formação
+  &copy; 2025 Damy Moreira | Desenvolvedor em formação
 </footer>
 
 </body>
