@@ -89,11 +89,12 @@ Este projeto é o Trabalho de Conclusão de Curso. O aplicativo tem como objetiv
 </section>
 
 <section id="contato">
-  <h2>Contato</h2>
+  <h2>🌍Contatos</h2>
   <p>📧 Email: <a href="mailto:damytsi23@gmail.com">damytsi23@gmail.com</a></p>
   <p>🔗 LinkedIn: <a href="www.linkedin.com/in/damymoreira" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/damymoreira</a></p>
   <p>🐙 GitHub: <a href="https://github.com/xdammyx" target="_blank" rel="noopener noreferrer">https://github.com/xdammyx</a></p>
 </section>
+
 
 <footer>
   &copy; 2025 Damy Moreira | Desenvolvedor em formação
