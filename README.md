@@ -11,8 +11,15 @@
 
 <section id="sobre">
   <h2>Sobre Mim</h2>
-  <p>🎓Olá! Sou estudante do 5º período de Tecnologia em Sistemas para Internet no Instituto Federal Catarinense - Me chamo Damaris Elisangela Moreira e atualmente estou na fase final do curso, com o TCC em andamento.
-Durante a graduação, atuei como representante das turmas de TSI no colegiado, fui bolsista de pesquisa (2023) e bolsista de extensão (2024). Meu projeto de pesquisa em banco de dados foi premiado na FICE, e participei de diversos programas de extensão, ampliando minha experiência acadêmica e prática.
+  <p>🎓Sou graduanda em Tecnologia Sistemas para Internet pelo Instituto Federal Catarinense – Campus Camboriú, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TC) em andamento.
+
+Durante minha trajetória acadêmica, desenvolvi o projeto “Estudo Bibliométrico – Análise Bibliográfica da FICE IFC Camboriú”, sob orientação do professor Angelo Augusto Frozza, cujo objetivo foi analisar a produção científica do evento em suas 11 edições (2012–2023), construindo um banco de dados completo para subsidiar análises futuras e acompanhar a evolução da feira. O projeto envolveu a organização de informações, a criação de indicadores bibliométricos e a estruturação de uma base sólida para novas pesquisas. Esse trabalho recebeu Menção Honrosa na FICE e foi publicado nos Anais da Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI), consolidando sua relevância acadêmica.
+
+Atuei como Bolsista na Coordenação de Pesquisa e Inovação do Campus Camboriú, realizando 336 horas de atividades de agosto a dezembro de 2023, e atualmente sou Bolsista na Coordenação de Extensão, com 640 horas de atividades entre março e dezembro de 2024.
+
+Além das atividades acadêmicas, tive a oportunidade de representar as turmas de TSI no colegiado, contribuindo para a discussão e aprimoramento das atividades do curso e fortalecendo minha experiência em liderança, organização e comunicação.
+
+Sou motivada pelo aprendizado contínuo, pela pesquisa aplicada e pela oportunidade de contribuir para projetos que geram impacto acadêmico e social, sempre buscando integrar conhecimento técnico com habilidades de gestão e colaboração.
 
 💡 Competências e Habilidades
 
