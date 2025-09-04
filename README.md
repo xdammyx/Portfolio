@@ -1,7 +1,7 @@
 
 <header>
   <h1>Damaris Elisangela Moreira</h1>
-  <p>Estudante de TSI | Desenvolvedor Web & Mobile | Projeto premiado na FICE 2024</p>
+  <p>🚀 Entusiasta de Tecnologia | 🔗 Conector de ideias | 🎨 Criador de conteúdo digital |💻 Desenvolvedor Full Stack em formação em busca de oportunidades</p>
   <nav>
     <a href="#sobre">Sobre</a>
     <a href="#projetos">Projetos</a>
