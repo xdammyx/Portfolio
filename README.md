@@ -11,7 +11,7 @@
 
 <section id="sobre">
   <h2>Sobre Mim</h2>
-  <p>🎓Sou graduanda em Tecnologia Sistemas para Internet pelo Instituto Federal Catarinense – Campus Camboriú, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TC) em andamento.
+  <p>🎓Sou graduada em Tecnologia Sistemas para Internet pelo Instituto Federal Catarinense – Campus Camboriú, atualmente na fase final do curso, com todas as disciplinas concluídas e o Trabalho de Conclusão de Curso (TC) em andamento.
 
 Durante minha trajetória acadêmica, desenvolvi o projeto “Estudo Bibliométrico – Análise Bibliográfica da FICE IFC Camboriú”, sob orientação do professor Angelo Augusto Frozza, cujo objetivo foi analisar a produção científica do evento em suas 11 edições (2012–2023), construindo um banco de dados completo para subsidiar análises futuras e acompanhar a evolução da feira. O projeto envolveu a organização de informações, a criação de indicadores bibliométricos e a estruturação de uma base sólida para novas pesquisas. Esse trabalho recebeu Menção Honrosa na FICE e foi publicado nos Anais da Mostra Nacional de Iniciação Científica e Tecnológica Interdisciplinar (MICTI), consolidando sua relevância acadêmica.
 
@@ -76,7 +76,7 @@ O projeto contribui para:
     </li>
     <li>
       <a href="#" target="_blank" rel="noopener noreferrer">
-        📚App TCC (Em desenvolvimento)
+        ## 📱 Projeto de TCC
       </a>
       <p>Aplicativo de Agricultura Compartilhada 🌱📱
 
@@ -89,15 +89,30 @@ Este projeto é o Trabalho de Conclusão de Curso. O aplicativo tem como objetiv
 </section>
 
 <section id="contato">
-  <h2>🌍Contatos</h2>
-  <p>📧 Email: <a href="mailto:damytsi23@gmail.com">damytsi23@gmail.com</a></p>
-  <p>🔗 LinkedIn: <a href="www.linkedin.com/in/damymoreira" target="_blank" rel="noopener noreferrer">www.linkedin.com/in/damymoreira</a></p>
-  <p>🐙 GitHub: <a href="https://github.com/xdammyx" target="_blank" rel="noopener noreferrer">https://github.com/xdammyx</a></p>
+  <h2>🌍 Contatos</h2>
+
+  <p>📧 Email: 
+    <a href="mailto:damytsi23@gmail.com">
+      damytsi23@gmail.com
+    </a>
+  </p>
+
+  <p>🔗 LinkedIn: 
+    <a href="https://www.linkedin.com/in/damymoreira" target="_blank" rel="noopener noreferrer">
+      www.linkedin.com/in/damymoreira
+    </a>
+  </p>
+
+  <p>🐙 GitHub: 
+    <a href="https://github.com/Dammy-e" target="_blank" rel="noopener noreferrer">
+      github.com/Dammy-e
+    </a>
+  </p>
 </section>
 
 
 <footer>
-  &copy; 2025 Damy Moreira | Desenvolvedor em formação
+  &copy; 2025 Damy Moreira | Desenvolvedor
 </footer>
 
 </body>
